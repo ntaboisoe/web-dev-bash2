@@ -27,7 +27,7 @@ document.getElementById('secret-action').addEventListener('dblclick', function (
 });
 
 // Interactive Elements: Image Gallery
-const images = ['image1.jpg', 'image2.jpg', 'image3.jpg'];
+const images = ['image1.png', 'image2.png', 'image3.png'];
 let currentIndex = 0;
 
 document.getElementById('next-slide').addEventListener('click', function () {
